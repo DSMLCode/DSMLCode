@@ -1,3 +1,12 @@
+```mermaid
+
+graph LR
+A[Eat] --> B((Code))
+C(repeat) --> A
+B --> D((Sleep))
+D --> C
+```
+
 ### Hi there, I'm Dhirendra! 👋 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning 
@@ -45,3 +54,4 @@ You can click the Preview link to take a look at your changes.
 
 [website]: https://in.linkedin.com/in/dhirendralinked
 [linkedin]: https://in.linkedin.com/in/dhirendralinked
+
