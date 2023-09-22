@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ### I'm a Machine Learning Engineer working on Recommender Systems and NLP. 
 
 - 🌱 I love solving solving.
-- 🥅 2022 Goals: Try and plulish a research paper in ML
+- 🥅 2023 Goals: Try and plulish a research paper in ML
 - ⚡ Fun fact: I love to teach ML and play cricket. 
 
 ### Connect with me:
